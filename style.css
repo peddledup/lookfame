@@ -77,8 +77,9 @@
   #carousel-2{
     display: none;
   }
-  
-
+  .swiper{
+    display: none;
+  }
 
 
 
@@ -107,5 +108,19 @@
       .banner{
         display: none;
       }
-
+      .swiper{
+        display: block;
+      }
+      #categories{
+        display: none;
+      }
+      .categories-catalogue{
+        margin-bottom: 0;
+        margin-left: 12px;
+      }
 }
+
+
+
+
+
