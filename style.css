@@ -39,6 +39,7 @@
   .add-cart{
     width: 231px;
     height: 45px;
+    
     border-radius: 22.5px;
     border: 1px solid #717171;
     margin-bottom: 20px;
@@ -117,6 +118,23 @@
       .categories-catalogue{
         margin-bottom: 0;
         margin-left: 12px;
+      }
+      .description-trending{
+        font-size: 15px;
+        font-family: 'Metal', cursive;
+        margin: 1px;
+      }
+      #display-off-1{
+        display: none;
+      }
+      .add-cart{
+        max-width: 231px;
+        max-height: 45px;
+        width: auto;
+        height: auto;
+        border-radius: 22.5px;
+        border: 1px solid #717171;
+        margin-bottom: 20px;
       }
 }
 
